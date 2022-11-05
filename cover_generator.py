@@ -1,4 +1,4 @@
-from duotone.duotone import Duotone
+from duotone-py.duotone import Duotone
 from PIL import Image, ImageColor, UnidentifiedImageError
 import re
 
